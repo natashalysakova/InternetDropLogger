@@ -17,7 +17,7 @@ namespace InternetDropLogger
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new InternetDropLogger()
             };
             ServiceBase.Run(ServicesToRun);
         }

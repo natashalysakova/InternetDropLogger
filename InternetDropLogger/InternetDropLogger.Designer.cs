@@ -1,6 +1,6 @@
 ﻿namespace InternetDropLogger
 {
-    partial class Service1
+    partial class InternetDropLogger
     {
         /// <summary> 
         /// Required designer variable.
